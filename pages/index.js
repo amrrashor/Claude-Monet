@@ -24,7 +24,7 @@ const Page = () => {
             <Container maxW='70ch'>
 
                 <Box borderRadius="lg" bg={useColorModeValue('whiteAlpha.600', 'whiteAlpha.200')} p={3} mt={2} mb={6} fontWeight="bold" align="center">
-                    Hello, I&apos;am a Painter
+                    Hello, Iam a Painter
                 </Box>
 
                 <Box display={{ md: 'flex' }}>
